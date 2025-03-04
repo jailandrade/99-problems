@@ -1,25 +1,56 @@
-99 problems
+# 99 problems
 
-I want to improve my software development skills so I will try to solve this problems in different languages
+I want to play with many programming languages and learn about its features and benefits.
+
+I will using this as the reference for the exercises:
 
 [99 problems - Ocaml](http://ocaml.org/learn/tutorials/99problems.html)
 
-The languages I'm goint to experiment for this project
+The programming languages I'm goint to use for this project are:
+
+## Interpretados
 
 * Python
-* JavaScript
+* Ruby
+* PHP
+* Perl
+
+## Compilados
+
 * Rust
 * Go
-* Haskell
-* Ocaml
+* C
+* Zig
+
+## Java related
+
+* Java
+* Scala
+* Groovy
+
+## Microsoft related
+
+* C#
 * F#
-* PureScript
+
+## Functional languages
+
+* Haskell
+* Clojure
 * Elixir
 * Erlang
-* Clojure
 * Racket
+* Ocaml
+
+## JavaScript related
+
+* JavaScript
+* TypeScript
+* PureScript
+* Elm
+
+## Used for Mobile dev mostly but good at other things
+
 * Dart
 * Swift
 * Kotlin
-
-I love programming languaes as you can see here
