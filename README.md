@@ -10,79 +10,85 @@ The programming languages I'm using to solve this exercises and thus the languag
 
 ## Interpretados
 
-1. Python
-2. Ruby
-3. PHP
-4. Perl
-5. Lua
+* [Python](https://www.python.org/)
+* [Ruby](https://www.ruby-lang.org/en/)
+* [PHP](https://www.php.net/)
+* [Perl](https://www.perl.org/)
+* [Lua](https://www.lua.org/)
 
 ## Compilados
 
-1. Rust
-2. Go
-3. C
-4. C++
+* [Rust](https://rust-lang.org/)
+* [Go](https://go.dev/)
+* [C](tps://www.c-language.org/)
+* [C++](https://isocpp.org/)
 
 ## Java related
 
-1. Java
-2. Scala
-3. Groovy
+* [Java](https://dev.java/)
+* [Scala](https://scala-lang.org/)
+* [Groovy](https://www.groovy-lang.org/)
 
 ## Microsoft related
 
-1. C#
-2. F#
+* [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
+* [F#](https://fsharp.org/)
 
 ## Functional and logic languages
 
-1. Haskell
-2. Clojure
-3. Elixir
-4. Erlang
-5. Racket
-6. OCaml
-7. Prolog
-8. Common Lisp
-9. Scheme
+* [Haskell](https://www.haskell.org/)
+* [Clojure](https://clojure.org/)
+* [Elixir](https://elixir-lang.org/)
+* [Erlang](https://www.erlang.org/)
+* [Racket](https://racket-lang.org/)
+* [OCaml](https://ocaml.org/)
+* [Prolog](https://www.swi-prolog.org/)
+* [Common Lisp](https://lisp-lang.org/)
+* [Scheme](https://www.scheme.org/)
 
 ## JavaScript related
 
-1. JavaScript
-2. TypeScript
-3. PureScript
-4. Elm
-5. ClojureScript
-6. rescript
-7. Reason
-8. Scala.js
+* [JavaScript](https://tc39.es/ecma262/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [PureScript](https://www.purescript.org/)
+* [Elm](https://elm-lang.org/)
+* [ClojureScript](https://clojurescript.org/)
+* [rescript](https://rescript-lang.org/)
+* [Reason](https://reasonml.github.io/)
+* [Scala.js](https://www.scala-js.org/)
+
+### JavaScript && TypeScript runners
+
+* [Node.js](https://nodejs.org/en)
+* [Bun](https://bun.sh/)
+* [Deno](https://deno.com/)
 
 ## Used for Mobile dev mostly but good at other things
 
-1. Dart
-2. Swift
-3. Kotlin
+* [Dart](https://dart.dev/)
+* [Swift](https://www.swift.org/)
+* [Kotlin](https://kotlinlang.org/)
 
 ## Used for data analysis and science
 
-1. SQL
-2. R
-3. Julia
+* [SQL](https://www.iso.org/standard/76583.html)
+* [R](https://www.r-project.org/)
+* [Julia](https://julialang.org/)
 
 ## New exciting languages or less known languages
 
-1. Haxe
-2. Nim
-3. Crystal
-4. J
-5. D
-6. Forth
-7. Factor
-8. Gleam
-9. Pony
-10. Vlang
-11. Zig
-12. Vyper
-13. Idris
-14. Agda
-15. Io
+* [Gleam](https://gleam.run/)
+* [Zig](https://ziglang.org/)
+* [Haxe](https://haxe.org/)
+* [Nim](https://nim-lang.org/)
+* [Crystal](https://crystal-lang.org/)
+* [J](https://www.jsoftware.com/#/)
+* [D](https://dlang.org/)
+* [Forth](https://forth-standard.org/)
+* [Factor](https://factorcode.org/)
+* [Pony](https://www.ponylang.io/)
+* [Vlang](https://vlang.io/)
+* [Idris](https://www.idris-lang.org/)
+* [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)
+* [Io](https://iolanguage.org/)
+* [Carbon](https://docs.carbon-lang.dev/)
