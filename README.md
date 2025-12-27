@@ -20,7 +20,7 @@ The programming languages I'm using to solve this exercises and thus the languag
 
 * [Rust](https://rust-lang.org/)
 * [Go](https://go.dev/)
-* [C](tps://www.c-language.org/)
+* [C](https://www.c-language.org/)
 * [C++](https://isocpp.org/)
 
 ## Java related
@@ -92,3 +92,9 @@ The programming languages I'm using to solve this exercises and thus the languag
 * [Agda](https://wiki.portal.chalmers.se/agda/pmwiki.php)
 * [Io](https://iolanguage.org/)
 * [Carbon](https://docs.carbon-lang.dev/)
+* [Curry](https://www.curry-lang.org/)
+* [Pure](https://agraef.github.io/pure-lang/)
+* [Rocq](https://rocq-prover.org/)
+* [Miranda](https://www.cs.kent.ac.uk/people/staff/dat/miranda/)
+* [Futhark](https://futhark-lang.org/)
+* [Lean](https://lean-lang.org/)
