@@ -22,15 +22,7 @@ The programming languages I'm using to solve this exercises and thus the languag
 * [Go](https://go.dev/)
 * [C](https://www.c-language.org/)
 * [C++](https://isocpp.org/)
-
-## Java related
-
 * [Java](https://dev.java/)
-* [Scala](https://scala-lang.org/)
-* [Groovy](https://www.groovy-lang.org/)
-
-## Microsoft related
-
 * [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 * [F#](https://fsharp.org/)
 
@@ -55,13 +47,6 @@ The programming languages I'm using to solve this exercises and thus the languag
 * [ClojureScript](https://clojurescript.org/)
 * [rescript](https://rescript-lang.org/)
 * [Reason](https://reasonml.github.io/)
-* [Scala.js](https://www.scala-js.org/)
-
-### JavaScript && TypeScript runners
-
-* [Node.js](https://nodejs.org/en)
-* [Bun](https://bun.sh/)
-* [Deno](https://deno.com/)
 
 ## Used for Mobile dev mostly but good at other things
 
